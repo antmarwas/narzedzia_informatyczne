@@ -40,8 +40,9 @@ Content for section A in branch-A.
 
 
 
+## Section A
 
-
+Content for section A in branch-B, conflicting with branch-A.
 
 
 
